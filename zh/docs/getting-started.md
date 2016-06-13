@@ -66,7 +66,7 @@ React.render(
 ```
 请注意，某些浏览器（如，Chrome浏览器）将无法加载该文件，除非它通过HTTP服务。
 
-### 离线转换
+### 离线转换(已经不推荐使用react-tools, 推荐使用 [babel](https://babeljs.io/repl/) 完成转换)
 
 先安装命令行工具（依赖 [npm](http://npmjs.org/)）：
 
